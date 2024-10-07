@@ -11,5 +11,5 @@ while (t):
     for i in range(1, numbers.__len__()):
         if numbers[i] < min:
             min = numbers[i]
-    print(min)        
+    print(min)
     
